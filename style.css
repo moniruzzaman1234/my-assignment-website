@@ -1,0 +1,175 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+.fixt-width{
+    max-width: 1300px;
+    margin: auto;
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+
+.slider-section {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.slider-content {
+    width: 60%;
+}
+.slider-content h2{
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.slider-content p {
+    font-size: 18px;
+    padding: 45px 0;
+    width: 600px;
+    line-height: 1.5;
+}
+
+.btn-primary a{
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 8px;
+    background: #E55473;
+    color: #fff;
+    padding: 18px 30px;
+}
+.slider-image img {
+    width: 500px;
+}
+.feature-section {
+    margin-bottom: 100px;
+}
+.common-title{}
+.common-title h3 {
+    font-size: 40px;
+    color: #272727;
+    font-weight: 700;
+    margin: 120px 0 30px 0;
+}
+.common-title p {
+    width: 43%;
+    margin: auto;
+    line-height: 1.5;
+    padding-bottom: 50px;
+}
+.feature-item{
+    display:inline-block;
+    text-align: center;
+
+}
+.feature-item img {
+    width: 250px;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 80px 70px 0px 70px;
+    border-radius: 50% 50% 0 0;
+    margin-right: 20px;
+}
+.img-2 img {
+    height: 350px;
+}
+.img-3 img{
+    height: 350px;
+    background: #ddd;
+}
+.item-link{
+
+    margin: 30px 0;
+}
+.item-link a{
+    color: #272727;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.deal-section{
+    background: rgba(229, 84, 115, 0.10);
+    padding: 70px 0;
+}
+.deal-content {
+    width: 60%;
+    text-align: center;
+    padding-top: 80px;
+}
+.deal-content h3{
+    font-size: 40px;
+    font-weight: 700;
+}
+.deal-content h3 span{
+    color: #E55473;
+}
+.deal-content p {
+    font-size: 18px;
+    width: 80%;
+    margin: 30px auto;
+}
+.btn-2{
+    margin-top: 50px;
+}
+.deal-image{
+    padding-top: 80px;
+}
+.deal-image img{}
+
+
+.block-section{
+    padding-bottom: 100px;
+}
+
+.blog-img-inner img{
+    width: 300px;
+    margin-right: 20px;
+}
+.form-section {
+    margin-bottom: 120px;
+}
+input[type="email"] {
+    padding: 15px 97px;
+    font-size: 20px;
+    border: none;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.form-inner {
+    background:url("Flower Asset/Rectangle 9.png");
+    padding: 61px 0;
+}
+.my-email {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-section{
+    background: black;
+    padding: 200px 0;
+}
+.footer-content h3{
+    font-size: 40px;
+    color: #fff;
+}
+.footer-content h3 span{
+    color: #E55473;
+}
+.footer-content p {
+    font-size: 18px;
+    color: #fff;
+    width: 42%;
+    margin: 30px auto;
+}
+.footer-content h6{
+    font-size: 16px;
+    color: #fff;
+}
